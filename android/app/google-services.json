@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "555627669111",
+    "project_id": "pehlaflutter",
+    "storage_bucket": "pehlaflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555627669111:android:10f4783279aa391d78c872",
+        "android_client_info": {
+          "package_name": "com.matic.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555627669111-rlg4ia8n58p84mhpji9p9dur1mqd12f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlG07x69Z6X3K3aikOFbwrpvu77OP3-PI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555627669111-rlg4ia8n58p84mhpji9p9dur1mqd12f2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
